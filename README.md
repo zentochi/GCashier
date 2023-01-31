@@ -1,9 +1,9 @@
 # GCashier
-GCashier adalah program yang menghitung banyaknya kembalian uang yang menggunakan algoritma Greedy. 
-Tersedia dua versi GCashier, yaitu `GCashier_US` dan `GCashier_ID` 
-- `GCashier_US` adalah program yang menghitung banyaknya <i>coin cent</i> dalam mata uang <i>United State</i>
-- `GCashier_ID` adalah program yang menghitung banyaknya <i>rupiah</i> dalam mata uang <i>Indonesia</i>. 
-- `_x64` ditujukan untuk arsitektur komputer 64-bit, sedangkan `_x86` ditujukan untuk arsitektur komputer 32-bit.
+GCashier is a program that calculate an amount of return money using Greedy algorithms. 
+There are two GCashier version, `GCashier` and [`GCashier_ID`](gihub.com/zentochi/GCashier)
+- `GCashier_US` is a program that calculate the return amount of coin in <i>cent</i> with <i>United States</i> currency.
+- `GCashier_ID` is a program that calculate the return amount of paper in <i>rupiah</i> with <i>Indonesian</i> currency. 
+- `_x64` devoted to computer architecture, whereas `_x86` devoted to computer architecture 32-bit.
 
 
 
